@@ -1,0 +1,62 @@
+.start{
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7DDi2g8BEQVdxAWS6qBSENdJ5mKbrHgkY5nR6-T0&s);
+}
+.menu{
+    text-align: right;
+}
+.title-one{
+    padding-top: 20px;
+    text-align: center;
+    font-weight: bold;
+    height: 80px;
+}
+a.menu-item{
+    padding-top: 0.3%;
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+}
+.active{
+    background-color: rgb(231, 228, 228);
+}
+
+.path{
+   text-align: center;
+}
+.section{
+    margin-top: 20px;
+    margin-right: 1%;
+    background-color: gainsboro;
+    text-align: left;
+    height: 100px;
+    width: 30%;
+    display: inline-block;
+    overflow:hidden;
+    /* border: red solid; */
+}
+
+img{
+    text-align: left;
+    height: 50px;
+    /* display: inline-block; */
+    width: 40%;
+    vertical-align:middle;
+}
+
+.title{
+    text-align: left;
+    display: inline-block;
+    width: 55%;
+    font-size: 60% !important;
+    /* border: green solid; */
+    font-size: 15px;
+    margin-top: 5px;
+}
+.text{
+    text-align: left;
+    /* border: blue solid; */
+    font-size: 60%;
+
+}
+
+
